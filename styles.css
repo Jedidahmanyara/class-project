@@ -1,0 +1,21 @@
+table,th,td,tr{
+    border: 3px solid rgb(25, 23, 23);
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+   
+}
+table{ 
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+h1{color: blue;
+    text-align: center;
+    
+}
+th{
+    background-color: blueviolet;
+}
+
